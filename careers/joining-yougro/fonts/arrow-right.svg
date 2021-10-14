@@ -1,0 +1,4 @@
+<svg width="5" height="8" xmlns="http://www.w3.org/2000/svg">
+  <line stroke="#fff" y1="1"  y2="4" x1="1" x2="4"></line>
+  <line stroke="#fff" y1="7"  y2="4" x1="1" x2="4"></line>
+</svg>
